@@ -18,8 +18,13 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Probando Github con múltiples colaboradores");
       
         System.out.println("Método de Marta");
-    }
 
+    }
+    
+        public String MetodoDeJoseM(){
+         return String.format("Método de José María Gómez\n");
+        }
+    
 }
  
  
