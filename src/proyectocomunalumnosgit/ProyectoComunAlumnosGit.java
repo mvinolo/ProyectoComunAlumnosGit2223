@@ -18,8 +18,11 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Probando Github con múltiples colaboradores");
       
         System.out.println("Método de Marta");
+       
     }
-
+public static void Lidia (){
+            System.out.println("Método de Lidia");
+}
 }
  
  
