@@ -18,6 +18,7 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Probando Github con múltiples colaboradores");
       
         System.out.println("Método de Marta");
+        System.out.println("Metodo de Francisco Javier Martin España");
     }
 
 }
