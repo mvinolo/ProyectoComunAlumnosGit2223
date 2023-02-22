@@ -19,6 +19,7 @@ public class ProyectoComunAlumnosGit {
       
         System.out.println("Método de Marta");
         System.out.println("Metodo de Francisco Javier Martin España");
+        System.out.println("Método de Agustín Luque Rivas");
     }
 
 }
