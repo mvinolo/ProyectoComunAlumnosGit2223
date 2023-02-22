@@ -20,7 +20,9 @@ public class ProyectoComunAlumnosGit {
         System.out.println("Método de Marta");
     }
     
-    
+       public void ismael(){
+           System.out.println("Método de Ismael");
+       }
     
        public String dameDatos(){
         String dameDatos = null;
