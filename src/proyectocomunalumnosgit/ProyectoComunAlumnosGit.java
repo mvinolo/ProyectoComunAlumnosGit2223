@@ -14,13 +14,15 @@ public class ProyectoComunAlumnosGit {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        System.out.println("Probando Github con múltiples colaboradores");
-      
-        System.out.println("Método de Marta");
+    public void fran() {
         System.out.println("Metodo de Francisco Javier Martin España");
+
     }
 
+    public static void main(String[] args) {
+        System.out.println("Probando Github con múltiples colaboradores");
+
+        System.out.println("Método de Marta");
+
+    }
 }
- 
- 
