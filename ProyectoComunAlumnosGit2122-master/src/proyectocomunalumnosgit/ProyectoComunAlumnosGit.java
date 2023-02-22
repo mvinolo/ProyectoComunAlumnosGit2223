@@ -27,7 +27,9 @@ public class ProyectoComunAlumnosGit {
         return dameDatos;
     }
     
-
+       public String MetodoDeJoseC(){
+       return "Metodo de Jose Chacón";
+       }
 }
  
  
