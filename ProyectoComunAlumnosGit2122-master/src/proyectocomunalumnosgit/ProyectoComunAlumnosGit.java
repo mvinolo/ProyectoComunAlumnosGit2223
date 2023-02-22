@@ -22,10 +22,9 @@ public class ProyectoComunAlumnosGit {
     
     
     
-       public String dameDatos(){
-        String dameDatos = null;
-        return dameDatos;
-    }
+       public String MetodoDeAlbertoManasLopez(){
+         return String.format("Método de Alberto Mañas López\n");
+        }
     
 
 }
